@@ -57,7 +57,7 @@
 $ sudo mknod /dev/hcsr04 c 200  0
 $ sudo chmod 666 /dev/hcsr04
 $ make all
-$ sudo insmod ./hc_sr04_driver.ko**
+$ sudo insmod ./hc_sr04_driver.ko
 
 ```
 
